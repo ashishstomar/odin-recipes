@@ -1,0 +1,19 @@
+body {
+    background-color: powderblue;
+}  
+
+#heading {
+    color: rgb(0, 0, 0);
+    background-color: hsl(208, 99%, 55%);
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.dots {
+    color: black;
+}
+
+.first {
+    padding: 10px;
+
+}
